@@ -1,0 +1,63 @@
+.logo {
+width: 300px;    
+}
+
+.divlinks {
+    width: 100%;
+    max-width: 450px;
+    text-align: center;
+    line-height: 30px;
+    border-radius: 0px;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.40), 0 2px 8px rgba(0, 0, 0, 0.40);
+}
+
+.divcenter {
+    text-align: center;  
+}
+
+.divconteudo {
+    margin: 10px;
+}
+
+.divpropaganda {
+    margin-top: 50px;
+
+}
+
+#link {
+    color: #000000;
+}
+
+body {
+background: rgba(255,255,255,1);
+background: -moz-radial-gradient(center, ellipse cover, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 15%, rgba(159,197,255,1) 100%);
+background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, rgba(255,255,255,1)), color-stop(15%, rgba(255,255,255,1)), color-stop(100%, rgba(159,197,255,1)));
+background: -webkit-radial-gradient(center, ellipse cover, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 15%, rgba(159,197,255,1) 100%);
+background: -o-radial-gradient(center, ellipse cover, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 15%, rgba(159,197,255,1) 100%);
+background: -ms-radial-gradient(center, ellipse cover, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 15%, rgba(159,197,255,1) 100%);
+background: radial-gradient(ellipse at center, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 15%, rgba(159,197,255,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#9fc5ff', GradientType=1 );
+Copy text
+}
+
+.geral {
+    background-color: rgb(57, 53, 53);
+    border: 0px;
+}
+
+.zapzapcolor {
+    background-color: #39890f;
+    border: 0px;
+}
+
+.instacolor {
+    background-color: #b12c2c;
+    border: 0px;
+}
+
+.facecolor {
+    background-color: #4267B2;
+    border: 0px;
+}
+
+
